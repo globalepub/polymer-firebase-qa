@@ -24,9 +24,9 @@ Run the server locally with Grunt:
 
     grunt serve
     
-##Firebase Hosting:
+##Firebase Hosting
 
-You can run your new app under Firebase Hosting and check it with your firebase: https://<your-firebase>.firebaseapp.com/
+You can run your new app under Firebase Hosting and check it with your firebase: https://your-firebase.firebaseapp.com/
 Run the following command in the directory of your app downloaded.
 ###SETUP & INSTALLATION
 
@@ -35,6 +35,7 @@ You should have Node.js installed (you do not need to run Node, just have it ins
 
 
      $npm install -g firebase-tools or $sudo npm install -g firebase-tools
+
 
 - Updating Previously Installed Firebase Tools
 
@@ -49,4 +50,4 @@ Then deploy your app with:
 
      $firebase deploy
 
-Now go back to your Firebase Dashboard online and then into Hosting, and click on https://<your-firebase>.firebaseapp.com to browse your app.
+Now go back to your Firebase Dashboard online and then into Hosting, and click on https://your-firebase.firebaseapp.com to browse your app.
